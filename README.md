@@ -11,9 +11,7 @@
 
 
 ## My Projects
-
-- [Project 1](https://github.com/kuber2030/project1) - Brief description of Project 1.
-- [Project 2](https://github.com/kuber2030/project2) - Brief description of Project 2.
+- [basket](https://github.com/kuber2030/basket) - Collect articles from the internet and save them to Notion notes. It's similar to a web clipping tool or a blog migration tool.
 
 ## Skills
 
